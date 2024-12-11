@@ -16,3 +16,4 @@ I welcome you to connect with me on LinkedIn to stay in touch and discuss anythi
 I am well-versed in an array of programming languages and tools, including Solidity, Rust, Hardhat, EthersJs, TypeScript, MySQL, NodeJS, and Git. These versatile skills enable me to build robust and efficient blockchain solutions.
 
 Let's continue to explore the endless possibilities of blockchain together! Feel free to reach out on LinkedIn to connect and collaborate. 👩‍💼
+https://www.linkedin.com/in/thinh-truong-a62262269/
